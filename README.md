@@ -144,7 +144,7 @@ The project uses a **Star Schema** with one fact table and two dimension tables.
 
 ## 📸 Project Preview (Query Results)
 
-Below are sample previews of the SQL analysis performed on the dataset.
+Below are some sample previews of the SQL analysis performed on the dataset.
 
 > 📌 Screenshots are taken from MySQL Workbench query outputs.
 

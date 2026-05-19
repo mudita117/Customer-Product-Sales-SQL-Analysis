@@ -172,7 +172,7 @@ Analysis showing how each product category contributes to overall revenue.
 ### 🔹 Running Total & Moving Sales Trend
 Time-series SQL analysis showing cumulative sales growth over time.
 
-![Running Total](screenshots/running_total_sales.png)
+![Running Total](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/running_total_%26_moving_avg.png)
 
 ---
 

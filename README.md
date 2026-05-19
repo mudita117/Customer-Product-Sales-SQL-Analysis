@@ -165,7 +165,7 @@ Summary dashboard query showing:
 ### 🔹 Percentage of Total Sales by Category
 Analysis showing how each product category contributes to overall revenue.
 
-![Sales by Category](screenshots/sales_percentage_category.png)
+![Sales by Category](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/%25_of_total_sales_by_category.png)
 
 ---
 

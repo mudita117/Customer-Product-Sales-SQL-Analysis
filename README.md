@@ -179,7 +179,7 @@ Time-series SQL analysis showing cumulative sales growth over time.
 ### 🔹 Product Sales Performance Comparison
 Compares product performance using current sales, average sales and previous year sales to identify growth and underperforming products.
 
-![Product Sales Comparison](screenshots/yearly_sales_comparison.png)
+![Product Sales Comparison](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/sales_comparison.png)
 
 ---
 

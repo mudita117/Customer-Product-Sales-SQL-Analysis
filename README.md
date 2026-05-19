@@ -140,5 +140,58 @@ The project uses a **Star Schema** with one fact table and two dimension tables.
 ✔ Data Exploration  
 ✔ GitHub Project Documentation  
 
+---
 
+## 📸 Project Preview (Query Results)
+
+Below are sample previews of the SQL analysis performed on the dataset.
+
+> 📌 Screenshots are taken from MySQL Workbench query outputs.
+
+---
+
+### 🔹 Business KPI Overview
+Summary dashboard query showing:
+- Total Sales  
+- Total Orders  
+- Total Quantity  
+- Average Price  
+- Total Customers & Products  
+
+![Business KPI](screenshots/business_kpi_overview.png)
+
+---
+
+### 🔹 Percentage of Total Sales by Category
+Analysis showing how each product category contributes to overall revenue.
+
+![Sales by Category](screenshots/sales_percentage_category.png)
+
+---
+
+### 🔹 Running Total & Moving Sales Trend
+Time-series SQL analysis showing cumulative sales growth over time.
+
+![Running Total](screenshots/running_total_sales.png)
+
+---
+
+### 🔹 Product Sales Performance Comparison
+Compares product performance using current sales, average sales and previous year sales to identify growth and underperforming products.
+
+![Product Sales Comparison](screenshots/yearly_sales_comparison.png)
+
+---
+
+---
+
+### 🔹 Customer Segmentation
+Customers grouped into:
+- VIP Customers  
+- Regular Customers  
+- New Customers  
+
+![Customer Segments](screenshots/customer_segments.png)
+
+---
 

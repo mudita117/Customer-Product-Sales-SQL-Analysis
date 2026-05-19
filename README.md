@@ -191,7 +191,7 @@ Customers grouped into:
 - Regular Customers  
 - New Customers  
 
-![Customer Segments](screenshots/customer_segments.png)
+![Customer Segments](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/total_customers_by_segment.png)
 
 ---
 

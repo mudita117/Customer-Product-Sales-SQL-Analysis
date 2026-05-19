@@ -158,7 +158,7 @@ Summary dashboard query showing:
 - Average Price  
 - Total Customers & Products  
 
-![Business KPI](screenshots/business_kpi_overview.png)
+![Business KPI](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/KPI_results.png)
 
 ---
 

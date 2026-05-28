@@ -195,3 +195,14 @@ Customers grouped into:
 
 ---
 
+### 🔹 Customer Report
+This report consolidates key customer metrics and behaviours. 
+
+![Customer Report](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/Customer_report.png)
+
+---
+
+### 🔹 Product Report
+This report consolidates key product metrics and behaviours.
+
+![Product Report](https://github.com/mudita117/Customer-Product-Sales-SQL-Analysis/blob/main/Product_report.png)
